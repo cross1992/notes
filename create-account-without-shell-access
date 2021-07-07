@@ -1,0 +1,2 @@
+# adduser --shell /bin/false cross1992
+# passwd cross1992
